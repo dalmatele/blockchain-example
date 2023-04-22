@@ -38,4 +38,6 @@ func (p Person) NotReallyIncreaseAge() {
 
 * See more here (Vietnamese version): https://techmaster.vn/posts/36540/pointer-va-receiver-trong-golang
 
+* Full version of How to build blockchain from scratch: https://jeiwan.net
+
 * Functions these start with uppercase is public access, start with lowercase is private access
